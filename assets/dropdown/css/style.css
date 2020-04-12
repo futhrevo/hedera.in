@@ -16,9 +16,6 @@
 .navbar-dropdown .navbar-logo img {
   height: 3.125rem;
   transition: all 0.3s ease-in-out;
-  background: #ffffffa8;
-  padding: 2px;
-  border-radius: 48px;
 }
 
 .navbar-dropdown .navbar-logo.mbr-iconfont {
